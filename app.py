@@ -479,37 +479,60 @@ Transport:
 
 # ================= IMAGES =================
 
-
 st.divider()
 
-
-
 st.subheader(
-"🌴 Popular Sri Lanka Destinations"
+    "🌴 Popular Sri Lanka Destinations"
 )
-
-
 
 
 places = {
 
+    "Ella":
+    "assets/ella.jpg",
 
-"Ella":
-"assets/ella.jpg",
+    "Kandy":
+    "assets/kandy.jpg",
 
+    "Yala":
+    "assets/yala.jpg",
 
-"Kandy":
-"assets/kandy.jpg",
-
-
-"Yala":
-"assets/yala.jpg",
-
-
-"Galle":
-"assets/galle.jpg"
+    "Galle":
+    "assets/galle.jpg"
 
 }
+
+
+
+# Image Styling
+
+st.markdown(
+"""
+<style>
+
+.destination-card img {
+
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 15px;
+
+}
+
+
+.destination-title {
+
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+</style>
+""",
+unsafe_allow_html=True
+)
 
 
 
@@ -517,7 +540,7 @@ cols = st.columns(4)
 
 
 
-for i,(name,img) in enumerate(places.items()):
+for i, (name, img) in enumerate(places.items()):
 
 
     with cols[i]:
@@ -525,12 +548,30 @@ for i,(name,img) in enumerate(places.items()):
 
         if os.path.exists(img):
 
+
+            st.markdown(
+                '<div class="destination-card">',
+                unsafe_allow_html=True
+            )
+
+
             st.image(
-
                 img,
+                use_container_width=True
+            )
 
-                caption=name,
 
-                width="stretch"
+            st.markdown(
+                f"""
+                <p class="destination-title">
+                {name}
+                </p>
+                """,
+                unsafe_allow_html=True
+            )
 
+
+            st.markdown(
+                "</div>",
+                unsafe_allow_html=True
             )
