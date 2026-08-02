@@ -1,0 +1,102 @@
+==================================================
+ACTIVITY DATABASE - SRI LANKA
+==================================================
+
+
+## Ella
+
+
+Activity Name:
+Ella Rock Hiking
+
+Location:
+Ella
+
+Duration:
+3-4 hours
+
+Cost:
+Free
+
+Description:
+A hiking activity with mountain views, forests and beautiful landscapes.
+
+
+
+Activity Name:
+Little Adam's Peak Hiking
+
+Location:
+Ella
+
+Duration:
+1-2 hours
+
+Cost:
+Free
+
+Description:
+A beginner friendly hiking activity with panoramic views of Ella valley.
+
+
+
+## Mirissa
+
+
+Activity Name:
+Whale Watching
+
+Location:
+Mirissa
+
+Duration:
+3 hours
+
+Cost:
+25 USD
+
+Description:
+A boat activity to observe whales and dolphins.
+
+
+
+## Arugam Bay
+
+
+Activity Name:
+Surfing
+
+Location:
+Arugam Bay
+
+Duration:
+2 hours
+
+Cost:
+20 USD
+
+Description:
+A surfing activity suitable for beginners and experienced surfers.
+
+
+
+## Yala
+
+
+Activity Name:
+Yala Wildlife Safari
+
+Location:
+Yala
+
+Duration:
+3-4 hours
+
+Cost:
+50 USD
+
+Description:
+A wildlife safari activity to observe animals in Yala National Park.
+
+
+==================================================

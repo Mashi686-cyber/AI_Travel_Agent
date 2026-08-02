@@ -1,0 +1,547 @@
+==================================================
+RESTAURANT DATABASE - SRI LANKA
+==================================================
+
+
+## Colombo
+
+
+Restaurant Name:
+Ministry of Crab
+
+Location:
+Colombo Fort
+
+Cuisine:
+Seafood
+
+Popular Dishes:
+Crab dishes, Sri Lankan seafood specialties
+
+Why Recommended:
+Popular restaurant known for seafood cuisine.
+
+
+
+Restaurant Name:
+Upali's by Nawaloka
+
+Location:
+Colombo
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Traditional Sri Lankan dishes
+
+Why Recommended:
+Good place to experience authentic Sri Lankan food.
+
+
+
+## Ella
+
+
+Restaurant Name:
+Cafe Chill
+
+Location:
+Ella
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Rice and Curry, Burgers, Drinks
+
+Why Recommended:
+Popular place with mountain views and relaxed atmosphere.
+
+
+
+Restaurant Name:
+Matey Hut
+
+Location:
+Ella
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Local dishes
+
+Why Recommended:
+Known for homemade Sri Lankan food.
+
+
+
+## Kandy
+
+
+Restaurant Name:
+The Empire Cafe
+
+Location:
+Kandy
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Rice dishes, Coffee, Snacks
+
+Why Recommended:
+Suitable for travelers exploring Kandy city.
+
+
+
+Restaurant Name:
+Balaji Dosai
+
+Location:
+Kandy
+
+Cuisine:
+South Indian
+
+Popular Dishes:
+Dosa, Vegetarian meals
+
+Why Recommended:
+Popular vegetarian food option.
+
+
+
+## Sigiriya
+
+
+Restaurant Name:
+Sigiriya Village Restaurant
+
+Location:
+Sigiriya
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Local dishes
+
+Why Recommended:
+Suitable after visiting Sigiriya Rock Fortress.
+
+
+
+Restaurant Name:
+Rasta Rant Sigiriya
+
+Location:
+Sigiriya
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Kottu, Rice dishes
+
+Why Recommended:
+Popular casual dining place.
+
+
+
+## Galle
+
+
+Restaurant Name:
+A Minute by Tuk Tuk
+
+Location:
+Galle Fort
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Seafood, Rice dishes
+
+Why Recommended:
+Suitable for travelers visiting Galle Fort.
+
+
+
+Restaurant Name:
+Poonie's Kitchen
+
+Location:
+Galle
+
+Cuisine:
+Healthy Sri Lankan and International
+
+Popular Dishes:
+Salads, Local meals
+
+Why Recommended:
+Known for fresh food options.
+
+
+
+## Yala
+
+
+Restaurant Name:
+Tissamaharama Food Court
+
+Location:
+Tissamaharama
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Local dishes
+
+Why Recommended:
+Suitable before or after safari activities.
+
+
+
+Restaurant Name:
+The Grand Yala Restaurant
+
+Location:
+Yala
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Local meals, Beverages
+
+Why Recommended:
+Comfortable dining option near Yala.
+
+
+
+## Mirissa
+
+
+Restaurant Name:
+Dewmini Roti Shop
+
+Location:
+Mirissa
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Roti, Kottu Roti, Local dishes
+
+Why Recommended:
+Known for traditional Sri Lankan street food.
+
+
+
+Restaurant Name:
+Zephyr Restaurant
+
+Location:
+Mirissa
+
+Cuisine:
+Seafood and International
+
+Popular Dishes:
+Seafood, Drinks
+
+Why Recommended:
+Suitable for beach travelers.
+
+
+
+## Nuwara Eliya
+
+
+Restaurant Name:
+Grand Indian Restaurant
+
+Location:
+Nuwara Eliya
+
+Cuisine:
+Indian and Sri Lankan
+
+Popular Dishes:
+Rice dishes, Curry
+
+Why Recommended:
+Popular restaurant among visitors.
+
+
+
+Restaurant Name:
+Lake View Pub
+
+Location:
+Nuwara Eliya
+
+Cuisine:
+International
+
+Popular Dishes:
+Snacks, Beverages
+
+Why Recommended:
+Suitable for relaxing near Gregory Lake.
+
+
+
+## Bentota
+
+
+Restaurant Name:
+Malli's Seafood Restaurant
+
+Location:
+Bentota
+
+Cuisine:
+Seafood
+
+Popular Dishes:
+Fresh seafood, Rice and Curry
+
+Why Recommended:
+Suitable for beach visitors.
+
+
+
+Restaurant Name:
+Golden Grill
+
+Location:
+Bentota
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Seafood dishes
+
+Why Recommended:
+Popular dining place near the beach.
+
+
+
+## Arugam Bay
+
+
+Restaurant Name:
+Hideaway Resort Restaurant
+
+Location:
+Arugam Bay
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Rice and Curry, Seafood
+
+Why Recommended:
+Suitable for surfers and beach travelers.
+
+
+
+Restaurant Name:
+The Lemon Tree
+
+Location:
+Arugam Bay
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Kottu, Local meals
+
+Why Recommended:
+Popular local food option.
+
+
+
+## Trincomalee
+
+
+Restaurant Name:
+Nero Kitchen
+
+Location:
+Trincomalee
+
+Cuisine:
+Sri Lankan and Seafood
+
+Popular Dishes:
+Seafood, Rice and Curry
+
+Why Recommended:
+Suitable for coastal travelers.
+
+
+
+Restaurant Name:
+Café on the 18th
+
+Location:
+Trincomalee
+
+Cuisine:
+International
+
+Popular Dishes:
+Snacks, Beverages
+
+Why Recommended:
+Good place for refreshments.
+
+
+
+## Jaffna
+
+
+Restaurant Name:
+Malayan Cafe
+
+Location:
+Jaffna
+
+Cuisine:
+Sri Lankan Tamil Cuisine
+
+Popular Dishes:
+Dosa, Traditional meals
+
+Why Recommended:
+Famous for local Jaffna food.
+
+
+
+Restaurant Name:
+Nallur Bhavan
+
+Location:
+Jaffna
+
+Cuisine:
+Vegetarian Tamil Cuisine
+
+Popular Dishes:
+Dosa, Vegetarian dishes
+
+Why Recommended:
+Suitable for cultural travelers.
+
+
+
+## Anuradhapura
+
+
+Restaurant Name:
+Rajarata Food Court
+
+Location:
+Anuradhapura
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Local food
+
+Why Recommended:
+Suitable for visitors exploring ancient sites.
+
+
+
+## Horton Plains
+
+
+Restaurant Name:
+Adma Agro Fresh Strawberry Restaurant
+
+Location:
+Nuwara Eliya
+
+Cuisine:
+Sri Lankan and Snacks
+
+Popular Dishes:
+Fresh juices, Snacks
+
+Why Recommended:
+Suitable after hiking activities.
+
+
+
+## Knuckles
+
+
+Restaurant Name:
+Riverston Holiday Home Restaurant
+
+Location:
+Near Knuckles
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Local meals
+
+Why Recommended:
+Suitable for hikers and nature travelers.
+
+
+
+## Polonnaruwa
+
+
+Restaurant Name:
+Jaga Food
+
+Location:
+Polonnaruwa
+
+Cuisine:
+Sri Lankan
+
+Popular Dishes:
+Rice and Curry, Traditional meals
+
+Why Recommended:
+Suitable for authentic local food.
+
+
+
+Restaurant Name:
+Lake Restaurant
+
+Location:
+Polonnaruwa
+
+Cuisine:
+Sri Lankan and International
+
+Popular Dishes:
+Rice dishes, Beverages
+
+Why Recommended:
+Suitable for family dining.
+
+
+
+==================================================

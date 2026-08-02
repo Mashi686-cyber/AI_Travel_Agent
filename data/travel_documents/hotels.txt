@@ -1,0 +1,529 @@
+==================================================
+HOTEL DATABASE - SRI LANKA
+==================================================
+
+
+## Colombo
+
+
+Hotel Name:
+Shangri-La Colombo
+
+Location:
+Colombo
+
+Category:
+Luxury Hotel
+
+Facilities:
+Swimming pool, restaurants, spa, city views
+
+Why Recommended:
+Suitable for luxury travelers and city experiences.
+
+
+
+Hotel Name:
+Galle Face Hotel
+
+Location:
+Colombo
+
+Category:
+Heritage Luxury Hotel
+
+Facilities:
+Restaurant, swimming pool, ocean views
+
+Why Recommended:
+Suitable for travelers interested in history and coastal views.
+
+
+
+## Ella
+
+
+Hotel Name:
+98 Acres Resort & Spa
+
+Location:
+Ella
+
+Category:
+Boutique Resort
+
+Facilities:
+Mountain views, restaurant, spa facilities
+
+Why Recommended:
+Suitable for couples and nature travelers.
+
+
+
+Hotel Name:
+Mountain Heavens Ella
+
+Location:
+Ella
+
+Category:
+Hotel
+
+Facilities:
+Rooms, restaurant, mountain views
+
+Why Recommended:
+Suitable for travelers visiting Ella attractions.
+
+
+
+## Kandy
+
+
+Hotel Name:
+The Grand Kandyan
+
+Location:
+Kandy
+
+Category:
+Luxury Hotel
+
+Facilities:
+Swimming pool, restaurant, city views
+
+Why Recommended:
+Suitable for travelers exploring cultural attractions.
+
+
+
+Hotel Name:
+Earl's Regency
+
+Location:
+Kandy
+
+Category:
+Luxury Resort
+
+Facilities:
+Restaurant, pool, garden area
+
+Why Recommended:
+Suitable for families and couples.
+
+
+
+## Sigiriya
+
+
+Hotel Name:
+Hotel Sigiriya
+
+Location:
+Sigiriya
+
+Category:
+Hotel
+
+Facilities:
+Swimming pool, restaurant, garden, Sigiriya Rock views
+
+Why Recommended:
+Suitable for travelers visiting Sigiriya Rock Fortress.
+
+
+
+Hotel Name:
+Sigiriya Rock Gate Resort
+
+Location:
+Sigiriya
+
+Category:
+Budget Hotel
+
+Facilities:
+Rooms, restaurant, garden area
+
+Why Recommended:
+Suitable for affordable stays.
+
+
+
+## Galle
+
+
+Hotel Name:
+Amangalla
+
+Location:
+Galle Fort
+
+Category:
+Luxury Heritage Hotel
+
+Facilities:
+Restaurant, spa, historical surroundings
+
+Why Recommended:
+Suitable for history and luxury travelers.
+
+
+
+Hotel Name:
+The Fort Printers
+
+Location:
+Galle Fort
+
+Category:
+Boutique Hotel
+
+Facilities:
+Restaurant, comfortable rooms
+
+Why Recommended:
+Suitable for travelers exploring Galle Fort.
+
+
+
+## Yala
+
+
+Hotel Name:
+Jetwing Yala
+
+Location:
+Yala
+
+Category:
+Luxury Wildlife Hotel
+
+Facilities:
+Swimming pool, restaurant, nature views
+
+Why Recommended:
+Suitable for wildlife experiences.
+
+
+
+Hotel Name:
+Cinnamon Wild Yala
+
+Location:
+Near Yala National Park
+
+Category:
+Wildlife Resort
+
+Facilities:
+Restaurant, pool, safari arrangements
+
+Why Recommended:
+Suitable for safari travelers.
+
+
+
+## Mirissa
+
+
+Hotel Name:
+Randiya Sea View Hotel
+
+Location:
+Mirissa
+
+Category:
+Beach Hotel
+
+Facilities:
+Swimming pool, restaurant, sea views
+
+Why Recommended:
+Suitable for beach travelers.
+
+
+
+Hotel Name:
+Paradise Beach Club
+
+Location:
+Mirissa
+
+Category:
+Beach Resort
+
+Facilities:
+Restaurant, pool, beach access
+
+Why Recommended:
+Suitable for relaxing holidays.
+
+
+
+## Nuwara Eliya
+
+
+Hotel Name:
+Grand Hotel Nuwara Eliya
+
+Location:
+Nuwara Eliya
+
+Category:
+Heritage Hotel
+
+Facilities:
+Restaurant, garden, comfortable rooms
+
+Why Recommended:
+Suitable for mountain and cultural trips.
+
+
+
+Hotel Name:
+Araliya Green Hills
+
+Location:
+Nuwara Eliya
+
+Category:
+Hotel
+
+Facilities:
+Restaurant, indoor facilities
+
+Why Recommended:
+Suitable for families.
+
+
+
+## Bentota
+
+
+Hotel Name:
+Cinnamon Bentota Beach
+
+Location:
+Bentota
+
+Category:
+Beach Resort
+
+Facilities:
+Swimming pool, restaurant, beach access
+
+Why Recommended:
+Suitable for beach vacations.
+
+
+
+Hotel Name:
+Avani Bentota Resort
+
+Location:
+Bentota
+
+Category:
+Beach Resort
+
+Facilities:
+Pool, restaurant, ocean views
+
+Why Recommended:
+Suitable for couples and families.
+
+
+
+## Arugam Bay
+
+
+Hotel Name:
+The Blue Wave Hotel
+
+Location:
+Arugam Bay
+
+Category:
+Beach Hotel
+
+Facilities:
+Restaurant, pool, rooms
+
+Why Recommended:
+Suitable for surfing travelers.
+
+
+
+Hotel Name:
+Arugambay Roccos
+
+Location:
+Arugam Bay
+
+Category:
+Beach Resort
+
+Facilities:
+Restaurant, beach access
+
+Why Recommended:
+Suitable for beach activities.
+
+
+
+## Trincomalee
+
+
+Hotel Name:
+Trinco Blu by Cinnamon
+
+Location:
+Trincomalee
+
+Category:
+Beach Resort
+
+Facilities:
+Pool, restaurant, beach views
+
+Why Recommended:
+Suitable for beach travelers.
+
+
+
+Hotel Name:
+Welcombe Hotel
+
+Location:
+Trincomalee
+
+Category:
+Hotel
+
+Facilities:
+Restaurant, rooms
+
+Why Recommended:
+Suitable for exploring Trincomalee.
+
+
+
+## Jaffna
+
+
+Hotel Name:
+Jetwing Jaffna
+
+Location:
+Jaffna
+
+Category:
+City Hotel
+
+Facilities:
+Restaurant, comfortable rooms
+
+Why Recommended:
+Suitable for cultural travelers.
+
+
+
+Hotel Name:
+The Thinnai
+
+Location:
+Jaffna
+
+Category:
+Hotel
+
+Facilities:
+Pool, restaurant
+
+Why Recommended:
+Suitable for families.
+
+
+
+## Anuradhapura
+
+
+Hotel Name:
+Heritage Hotel Anuradhapura
+
+Location:
+Anuradhapura
+
+Category:
+Hotel
+
+Facilities:
+Restaurant, garden
+
+Why Recommended:
+Suitable for heritage tourism.
+
+
+
+## Horton Plains
+
+
+Hotel Name:
+The Hill Club
+
+Location:
+Nuwara Eliya
+
+Category:
+Heritage Hotel
+
+Facilities:
+Restaurant, comfortable rooms
+
+Why Recommended:
+Suitable for travelers visiting Horton Plains.
+
+
+
+## Knuckles
+
+
+Hotel Name:
+Madulkelle Tea and Eco Lodge
+
+Location:
+Near Knuckles
+
+Category:
+Eco Lodge
+
+Facilities:
+Nature views, restaurant
+
+Why Recommended:
+Suitable for hiking and nature lovers.
+
+
+
+## Polonnaruwa
+
+
+Hotel Name:
+The Lake Hotel Polonnaruwa
+
+Location:
+Polonnaruwa
+
+Category:
+Hotel
+
+Facilities:
+Restaurant, pool, lake views
+
+Why Recommended:
+Suitable for history travelers.
+
+
+==================================================

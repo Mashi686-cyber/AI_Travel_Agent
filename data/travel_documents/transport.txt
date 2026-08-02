@@ -1,0 +1,275 @@
+==================================================
+TRANSPORT DATABASE - SRI LANKA
+==================================================
+
+
+Transport Type:
+Train
+
+
+Route:
+Kandy to Ella
+
+
+Travel Time:
+Approximately 7 hours
+
+
+Cost:
+No information available
+
+
+Details:
+A scenic train journey through mountains, forests
+and tea plantations.
+
+Suitable for:
+Nature lovers and travelers looking for scenic travel.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Train
+
+
+Route:
+Colombo to Kandy
+
+
+Travel Time:
+Approximately 3-4 hours
+
+
+Cost:
+No information available
+
+
+Details:
+A comfortable train route connecting Colombo and Kandy.
+
+Suitable for:
+Culture and city travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Train
+
+
+Route:
+Colombo to Galle
+
+
+Travel Time:
+Approximately 2-3 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Coastal train journey with ocean views.
+
+Suitable for:
+Beach travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Bus
+
+
+Route:
+Colombo to Mirissa
+
+
+Travel Time:
+Approximately 4-5 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Public bus transportation available between
+Colombo and Mirissa.
+
+Suitable for:
+Budget travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Bus
+
+
+Route:
+Colombo to Ella
+
+
+Travel Time:
+Approximately 6-8 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Public bus services available through hill country.
+
+Suitable for:
+Budget travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Bus
+
+
+Route:
+Colombo to Nuwara Eliya
+
+
+Travel Time:
+Approximately 5-6 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Bus transportation available to central highlands.
+
+Suitable for:
+Mountain travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Bus
+
+
+Route:
+Colombo to Jaffna
+
+
+Travel Time:
+Approximately 7-8 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Long-distance bus service connecting Colombo and Jaffna.
+
+Suitable for:
+Northern region travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Bus
+
+
+Route:
+Colombo to Trincomalee
+
+
+Travel Time:
+Approximately 6-7 hours
+
+
+Cost:
+No information available
+
+
+Details:
+Public bus transportation available to the east coast.
+
+Suitable for:
+Beach travelers.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Taxi
+
+
+Route:
+Airport to Colombo
+
+
+Travel Time:
+Approximately 40 minutes
+
+
+Cost:
+Depends on distance
+
+
+Details:
+Private transport option suitable for airport transfers.
+
+Suitable for:
+Families and travelers with luggage.
+
+
+
+--------------------------------------------------
+
+
+Transport Type:
+Tuk Tuk
+
+
+Route:
+Local city travel
+
+
+Travel Time:
+Depends on destination
+
+
+Cost:
+Negotiable
+
+
+Details:
+Suitable for short-distance travel inside tourist areas.
+
+Suitable for:
+Local sightseeing.
+
+
+
+==================================================
