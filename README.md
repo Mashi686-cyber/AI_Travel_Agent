@@ -182,7 +182,8 @@ https://aitravelagent-wdwp-c8zfuhrrozqequ44pv.streamlit.app
 
 ## Developer
 
-Mashi686-cyber
+ M.Imashi Shashikala  
+GitHub: Mashi686-cyber
 
 ---
 
